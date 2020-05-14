@@ -22,7 +22,7 @@ def get_colour():
         print('green')
     elif .40>percent>=.10:
         print('yellow')
-    elif .10>percent>.05:
+    elif .10>percent>=.05:
         print("orange")        
     else:
         print('red')
